@@ -1,2 +1,0 @@
-# Lootbox
-# EA Lootbox Simulator ;)
